@@ -138,9 +138,8 @@ portfolio/
 ## 📞 Contact
 
 - **Email** : slim.bentanfous@esprit.tn
-- **Téléphone** : +216 23 17 77 05
-- **LinkedIn** : [Slim Ben Tanfous](https://linkedin.com/in/slim-ben-tanfous)
-- **GitHub** : [slim-ben-tanfous](https://github.com/slim-ben-tanfous)
+- **LinkedIn** : [Slim Ben Tanfous](https://linkedin.com/in/slim-ben-tanfous-971b19244/)
+- **GitHub** : [slim-ben-tanfous](https://github.com/Slimbentanfous1)
 
 ## 📝 Licence
 
