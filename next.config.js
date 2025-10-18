@@ -1,8 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  experimental: {
-    appDir: true,
-  },
+  // Remove unsupported experimental options for Netlify/Next build
 }
 
 module.exports = nextConfig
