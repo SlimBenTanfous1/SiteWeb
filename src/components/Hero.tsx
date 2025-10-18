@@ -102,8 +102,8 @@ export default function Hero() {
             transition={{ delay: 0.6, duration: 0.8 }}
             className="text-lg md:text-xl text-white/70 max-w-3xl mx-auto leading-relaxed"
           >
-            Passionné par la cybersécurité, je suis à la recherche d'un 
-            <span className="text-neon-pink font-semibold"> stage de fin d'étude de 6 mois</span> 
+            Passionné par la cybersécurité, je suis à la recherche d&apos;un 
+            <span className="text-neon-pink font-semibold"> stage de fin d&apos;étude de 6 mois</span> 
             {' '}à partir de <span className="text-neon-blue font-semibold">Janvier 2026</span>
           </motion.p>
 

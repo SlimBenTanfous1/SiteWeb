@@ -103,7 +103,7 @@ export default function Contact() {
         </h2>
         <div className="w-24 h-1 bg-gradient-to-r from-neon-blue to-neon-pink mx-auto rounded-full" />
         <p className="text-white/70 text-lg mt-6 max-w-2xl mx-auto">
-          Intéressé par mon profil ? N'hésitez pas à me contacter pour discuter d'opportunités de stage
+  Intéressé par mon profil ? N&apos;hésitez pas à me contacter pour discuter d&apos;opportunités de stage
         </p>
       </motion.div>
     </div>

@@ -71,7 +71,7 @@ export default function Footer() {
               </div>
               <p className="text-white/70 text-sm leading-relaxed mb-6">
                 Étudiant ingénieur en cybersécurité passionné par la protection 
-                des systèmes d'information et l'innovation technologique.
+des systèmes d&apos;information et l&apos;innovation technologique.
               </p>
               <div className="flex space-x-4">
                 <motion.a

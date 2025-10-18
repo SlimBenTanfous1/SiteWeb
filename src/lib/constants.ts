@@ -8,7 +8,7 @@ export const SITE_CONFIG = {
     name: 'Slim Ben Tanfous',
     email: 'slim.bentanfous@esprit.tn',
     phone: '+216 23 17 77 05',
-    location: 'Tunis, Tunisie,
+    location: 'Tunis, Tunisie'
   },
   social: {
     linkedin: 'https://linkedin.com/in/slim-ben-tanfous',
