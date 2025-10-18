@@ -77,7 +77,7 @@ des systèmes d&apos;information et l&apos;innovation technologique.
                 <motion.a
                   whileHover={{ scale: 1.1 }}
                   whileTap={{ scale: 0.9 }}
-                  href="https://linkedin.com/in/slim-ben-tanfous"
+                  href="https://www.linkedin.com/in/slim-ben-tanfous-971b19244/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 bg-gradient-to-r from-blue-500 to-blue-700 rounded-lg flex items-center justify-center hover:from-blue-400 hover:to-blue-600 transition-all duration-300"
@@ -87,7 +87,7 @@ des systèmes d&apos;information et l&apos;innovation technologique.
                 <motion.a
                   whileHover={{ scale: 1.1 }}
                   whileTap={{ scale: 0.9 }}
-                  href="https://github.com/slim-ben-tanfous"
+                  href="https://github.com/Slimbentanfous1"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 bg-gradient-to-r from-gray-500 to-gray-700 rounded-lg flex items-center justify-center hover:from-gray-400 hover:to-gray-600 transition-all duration-300"
