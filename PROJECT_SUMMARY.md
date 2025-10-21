@@ -154,4 +154,4 @@ Vous avez maintenant un **portfolio professionnel et impressionnant** qui :
 - ✅ Peut être déployé facilement sur n'importe quelle plateforme
 - ✅ Impressionne les recruteurs et employeurs potentiels
 
-**Le portfolio est prêt à être déployé et à vous aider à décrocher votre stage de fin d'étude !** 🚀
+**Le portfolio est prêt à être déployé et à vous aider à décrocher votre stage de fin d'études !** 🚀

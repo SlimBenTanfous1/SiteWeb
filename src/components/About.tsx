@@ -91,7 +91,7 @@ export default function About() {
                 </div>
                 <div className="flex items-center space-x-3">
                   <Calendar className="w-5 h-5 text-neon-pink" />
-                  <span className="text-white/80">Recherche stage de fin d'étude - Janvier 2026</span>
+                  <span className="text-white/80">Recherche stage de fin d'études - Janvier 2026</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <GraduationCap className="w-5 h-5 text-neon-purple" />
@@ -146,7 +146,7 @@ export default function About() {
                 approfondies tout en développant une approche méthodique de la sécurité.
               </p>
               <p className="text-white/80 leading-relaxed">
-                Je recherche actuellement un <span className="text-neon-blue font-semibold">stage de fin d'étude de 6 mois</span> 
+                Je recherche actuellement un <span className="text-neon-blue font-semibold">stage de fin d'études de 6 mois</span> 
                 {' '}à partir de <span className="text-neon-pink font-semibold">Janvier 2026</span> afin d'obtenir mon diplôme d'ingénieur et mettre en pratique 
                 mes connaissances et contribuer à la sécurité d'une entreprise innovante.
               </p>
