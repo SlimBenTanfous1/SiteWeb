@@ -187,44 +187,54 @@ export default function About() {
                 <h3 className="text-2xl font-cyber font-bold text-white">Certifications</h3>
               </div>
               
-              <div className="space-y-4">
-                <div className="flex items-center justify-between p-4 bg-dark-card/50 rounded-lg">
-                <div>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div className="flex items-center gap-4 p-4 bg-dark-card/50 rounded-lg">
+                  <div className="w-10 h-10 bg-neon-blue rounded-full flex items-center justify-center">
+                    <Award className="w-5 h-5 text-white" />
+                  </div>
+                  <div>
                     <h4 className="text-white font-pop font-semibold">AWS Cloud Security Foundations</h4>
                     <p className="text-white/60 text-sm">Novembre 2025</p>
                   </div>
-                  <div className="w-8 h-8 bg-neon-blue rounded-full flex items-center justify-center">
-                    <Award className="w-4 h-4 text-white" />
+                </div>
+
+                <div className="flex items-center gap-4 p-4 bg-dark-card/50 rounded-lg">
+                  <div className="w-10 h-10 bg-neon-blue rounded-full flex items-center justify-center">
+                    <Award className="w-5 h-5 text-white" />
                   </div>
-                <div>
+                  <div>
                     <h4 className="text-white font-pop font-semibold">Oracle Cloud Infrastructure (OCI) 2025 Foundations Associate</h4>
                     <p className="text-white/60 text-sm">Octobre 2025</p>
                   </div>
-                  <div className="w-8 h-8 bg-neon-blue rounded-full flex items-center justify-center">
-                    <Award className="w-4 h-4 text-white" />
+                </div>
+
+                <div className="flex items-center gap-4 p-4 bg-dark-card/50 rounded-lg">
+                  <div className="w-10 h-10 bg-neon-pink rounded-full flex items-center justify-center">
+                    <Award className="w-5 h-5 text-white" />
                   </div>
-                <div>
+                  <div>
                     <h4 className="text-white font-pop font-semibold">Hedera Hashgraph Associate</h4>
                     <p className="text-white/60 text-sm">Octobre 2025</p>
                   </div>
-                  <div className="w-8 h-8 bg-neon-pink rounded-full flex items-center justify-center">
-                    <Award className="w-4 h-4 text-white" />
+                </div>
+
+                <div className="flex items-center gap-4 p-4 bg-dark-card/50 rounded-lg">
+                  <div className="w-10 h-10 bg-neon-blue rounded-full flex items-center justify-center">
+                    <Award className="w-5 h-5 text-white" />
                   </div>
                   <div>
                     <h4 className="text-white font-pop font-semibold">CyberOps Associate</h4>
                     <p className="text-white/60 text-sm">Mai 2025</p>
                   </div>
-                  <div className="w-8 h-8 bg-neon-blue rounded-full flex items-center justify-center">
-                    <Award className="w-4 h-4 text-white" />
-                  </div>
                 </div>
-                <div className="flex items-center justify-between p-4 bg-dark-card/50 rounded-lg">
+
+                <div className="flex items-center gap-4 p-4 bg-dark-card/50 rounded-lg md:col-span-2">
+                  <div className="w-10 h-10 bg-neon-pink rounded-full flex items-center justify-center">
+                    <Award className="w-5 h-5 text-white" />
+                  </div>
                   <div>
                     <h4 className="text-white font-pop font-semibold">CCNA: Switching, Routing, and Wireless Essentials</h4>
                     <p className="text-white/60 text-sm">Septembre 2024</p>
-                  </div>
-                  <div className="w-8 h-8 bg-neon-pink rounded-full flex items-center justify-center">
-                    <Award className="w-4 h-4 text-white" />
                   </div>
                 </div>
               </div>
