@@ -93,6 +93,24 @@ export const LANGUAGES = [
 
 export const CERTIFICATIONS = [
   {
+    name: 'AWS Cloud Security Foundations',
+    issuer: 'AWS',
+    date: 'Novembre 2025',
+    description: 'Compréhension des principes essentiels de la sécurité sur AWS : IAM, chiffrement, conformité et surveillance, pour renforcer la maîtrise des environnements cloud et multi-cloud sécurisés.',
+  },
+  {
+    name: 'Oracle Cloud Infrastructure Foundations Associate',
+    issuer: 'Oracle',
+    date: 'Oracle 2025',
+    description: 'Compréhension des fondamentaux du cloud computing, des modèles IaaS/PaaS, de la gestion des identités et des accès (IAM)',
+  },
+  {
+    name: 'Hedera Hashgraph Associate',
+    issuer: 'Hedera',
+    date: 'Octobre 2025',
+    description: 'Certification en blockchain',
+  },
+  {
     name: 'CyberOps Associate',
     issuer: 'Cisco',
     date: 'Mai 2025',
