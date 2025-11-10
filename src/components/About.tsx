@@ -189,6 +189,27 @@ export default function About() {
               
               <div className="space-y-4">
                 <div className="flex items-center justify-between p-4 bg-dark-card/50 rounded-lg">
+                <div>
+                    <h4 className="text-white font-pop font-semibold">AWS Cloud Security Foundations</h4>
+                    <p className="text-white/60 text-sm">Novembre 2025</p>
+                  </div>
+                  <div className="w-8 h-8 bg-neon-blue rounded-full flex items-center justify-center">
+                    <Award className="w-4 h-4 text-white" />
+                  </div>
+                <div>
+                    <h4 className="text-white font-pop font-semibold">Oracle Cloud Infrastructure (OCI) 2025 Foundations Associate</h4>
+                    <p className="text-white/60 text-sm">Octobre 2025</p>
+                  </div>
+                  <div className="w-8 h-8 bg-neon-blue rounded-full flex items-center justify-center">
+                    <Award className="w-4 h-4 text-white" />
+                  </div>
+                <div>
+                    <h4 className="text-white font-pop font-semibold">Hedera Hashgraph Associate</h4>
+                    <p className="text-white/60 text-sm">Octobre 2025</p>
+                  </div>
+                  <div className="w-8 h-8 bg-neon-pink rounded-full flex items-center justify-center">
+                    <Award className="w-4 h-4 text-white" />
+                  </div>
                   <div>
                     <h4 className="text-white font-pop font-semibold">CyberOps Associate</h4>
                     <p className="text-white/60 text-sm">Mai 2025</p>
