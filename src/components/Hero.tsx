@@ -127,7 +127,7 @@ export default function Hero() {
             <motion.a
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              href="/SlimBenTanfous_CV.pdf"
+              href="/Slimbentanfous_CV_FR.pdf"
               download
               className="flex items-center space-x-2 px-6 py-3 border border-neon-pink text-neon-pink rounded-lg font-cyber font-bold transition-all duration-300 hover:bg-neon-pink hover:text-dark-bg hover:shadow-lg hover:shadow-neon-pink/50"
             >
